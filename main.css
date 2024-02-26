@@ -24,6 +24,7 @@ a:active{
 }
 .foodpic{
     margin: 19px;
+    border-radius: 20%;
 }
 caption,tfoot{
     font-size: 1em;
