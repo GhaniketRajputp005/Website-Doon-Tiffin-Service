@@ -56,11 +56,12 @@ table{
 }
 .image
 {
-    align-items: center;
-    width: 1450px;
-    height: 600px;
-    /* margin: 0%;
-    padding: 0%; */
+    
+    width: 95%;
+    height: 30%;
+    object-fit: cover;
+    object-position: center;
+ 
 }
 .highlight{
     color: #27ae60;
