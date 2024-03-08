@@ -6,6 +6,7 @@ body{
     background-color:    #ffffff; 
    
     color: rgb(0, 0, 0);
+   
     
 }
 h1,nav,h2,footer{
@@ -70,4 +71,17 @@ table{
 .highlight{
     color: #27ae60;
     font-weight: bold;
+}
+
+.aboutdts{
+    columns: 2;
+    column-width: 250px ;
+    
+    column-gap: 3rem;
+    margin: 100px 200px; 
+    box-sizing: content-box;   
+}
+
+.nowrap{
+    white-space: nowrap;
 }
